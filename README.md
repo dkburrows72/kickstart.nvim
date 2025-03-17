@@ -1,6 +1,6 @@
 To install kickstart:
 
-git clone git@github.com/dkburrows72:kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone git@github.com:dkburrows72/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 
 # kickstart.nvim
 
